@@ -1,2 +1,2 @@
 # capitals.json
-All the countries with their capitals and their capitals geolocation.
+All the countries, with their capitals and their capital's geolocations.
